@@ -1,0 +1,38 @@
+body {
+   
+   
+    
+    text-align: center;
+   
+}
+  
+  .box-container {
+    display: flex;
+    gap: 10px; /* Space between boxes */
+    justify-content: center;
+  }
+  
+  .button {
+    width: 200px;
+    height: 200px;
+    border: 2px solid #333;
+  }
+  
+  /* Background colors for each box */
+  #grey {
+    background-color:gray; /* Orange */
+  }
+  
+  #yellow {
+    background-color: yellow; /* Green */
+  }
+  
+  #blue {
+    background-color: #3357ff; /* Blue */
+  }
+  
+  #pink{
+    background-color: #ff33a1; /* Pink */
+  }
+    
+   
